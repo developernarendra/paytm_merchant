@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@types/bs58": "^4.0.4"
+  }
+}
